@@ -6,7 +6,7 @@ export default function HomeScreen() {
             <h1>Bem-Vindo</h1>
             
           <footer class="main-footer">
-          Projeto desenvolvido em React por Wesley.
+          Projeto desenvolvido em React por @Wesley
         </footer>
 
         </div>
