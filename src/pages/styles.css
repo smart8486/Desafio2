@@ -45,3 +45,8 @@ tr:nth-child(even) {
         margin-top: 1rem;
     }
 }
+
+.sidebar a.active {
+    background-color: rgb(0, 62, 136)
+    color: rgb(232, 230, 227);
+}
