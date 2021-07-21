@@ -6,7 +6,7 @@ export default function HomeScreen() {
             <h1>Bem-Vindo</h1>
             
           <footer class="main-footer">
-          Projeto desenvolvido em eactJS, React Router Dom para rotas e React Toastify <strong>@Wesley</strong>
+          Projeto desenvolvido em ReactJS, React Router Dom para rotas e React Toastify <strong>@Wesley</strong>
         </footer>
 
         </div>
