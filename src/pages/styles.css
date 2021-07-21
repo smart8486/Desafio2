@@ -1,0 +1,47 @@
+.form-container form {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin: 1rem 0 2.5rem 0;
+}
+
+.table-container {
+    width: 100%;
+    overflow-x: scroll;
+}
+
+input, label, select {
+    display: block;
+    text-align: left;
+    width: 200px;
+}
+
+input, select {
+    margin-top: 0.5rem;
+    height: 2rem;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+@media only screen and (max-width: 1240px) {
+    .form-container form {
+        flex-wrap: wrap;
+    }
+
+    .btn-add {
+        margin-top: 1rem;
+    }
+}
