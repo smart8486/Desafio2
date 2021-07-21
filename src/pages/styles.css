@@ -50,6 +50,10 @@ tr:nth-child(even) {
     background-color: rgb(0, 62, 136)
 }
 
+.Toastify__toast {
+background-color: #dddddd;
+}
+
 .Toastify__toast--success {
     background-image: initial;
     background-color: rgb(0, 62, 136)
