@@ -5,10 +5,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
+    background-color:#fff;
 }
 
 body {
     overflow: hidden;
+    background-color: #000000;
 }
 
 .App {
